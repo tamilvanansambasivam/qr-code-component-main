@@ -1,0 +1,41 @@
+
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+
+img{
+    width: 80%;
+
+    border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.card {
+    
+    margin: 10% auto;
+    width: 14%;
+    padding: 10px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 20px;
+    height: 350px;
+
+}
+
+.bold{
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+}
+
+.light{
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+}
